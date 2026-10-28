@@ -23,4 +23,4 @@ replacing slow manual inspections on an online car resale platform.
 The ensemble also reduced the train/validation gap (MAE 980 on train).
 
 ## Interactive interface
-A Python interface takes a car's deta
+A Python interface takes a car's details and returns a predicted price with a confidence interval.
