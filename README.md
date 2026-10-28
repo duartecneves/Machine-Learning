@@ -17,7 +17,6 @@ replacing slow manual inspections on an online car resale platform.
 ## Results
 | Model | Validation MAE | Validation R² |
 |---|---|---|
-| Linear Regression | 2,276 | 0.859 |
 | Gradient Boosting (best single model) | 1,231 | 0.955 |
 | **Ensemble (GBR + RF)** | **1,224** | **0.956** |
 
